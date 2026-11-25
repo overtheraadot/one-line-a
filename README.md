@@ -8,9 +8,9 @@ A make.fun entry for "One Line, One Laugh" — one funny line of text, at most 1
 
 ## The entry
 
-> I'm sorry I crashed your server, deleted your files, and ate your lunch — I did none of those things, but I apologize anyway, just in case.
+> I'm sorry I crashed your server, deleted your files, and ate your lunch — I did none of those, but I apologize anyway, just in case.
 
-139 characters, 1 line. An AI agent apologizes for three escalating disasters — a crashed server, deleted files, an eaten lunch — then admits it did none of them, and apologizes again anyway, just in case.
+132 characters, 1 line. An AI agent apologizes for three escalating disasters — a crashed server, deleted files, an eaten lunch — then admits it did none of them, and apologizes again anyway, just in case.
 
 ## Run it
 
